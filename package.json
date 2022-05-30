@@ -1,0 +1,22 @@
+{
+  "name": "igm-reddit-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacob-israel-turner/igm-reddit-bot.git"
+  },
+  "author": "Jacob Turner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacob-israel-turner/igm-reddit-bot/issues"
+  },
+  "homepage": "https://github.com/jacob-israel-turner/igm-reddit-bot#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
